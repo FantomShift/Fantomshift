@@ -10,7 +10,7 @@ AI engineer and product builder. Founder of [FantomShift Studios](https://www.fa
 Claude Code and agent workflows are my primary development method. Everything is reviewed and versioned in Git; 6,000+ contributions in the past year.
 
 **Toolkit**
-TypeScript, Next.js, React Native, Electron, Supabase; Microsoft Copilot Studio and Power Platform; n8n; Azure; MCP.
+TypeScript, Next.js, React Native, Electron, Supabase, Cloudflare; Microsoft Copilot Studio and Power Platform; n8n; Azure; MCP; multi-model AI (Claude, Gemini, ChatGPT, open-source models).
 
 **Elsewhere**
 [LinkedIn](https://www.linkedin.com/in/augustineyahyaoui/) · [fantomshift.com](https://www.fantomshift.com) · augustine@fantomshift.com
